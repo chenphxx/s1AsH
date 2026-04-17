@@ -10,6 +10,10 @@ pass
 john201950@outlook.com
 ```
 
+## 环境
+
+Python: 3.10.6 
+
 --- 
 
 也许尝试TDD? 
